@@ -1,7 +1,7 @@
 # FTP-Shell
 ### A simple FTP program in Python, enabling communication between two computers-- ideal for transferring files between virtual machines.
 
-### Installation instruction:
+### Execution instruction:
 
 You will need to have Python 3 installed in your computer for this program two run. You need to run the server script first called vm_server.py and then the client script called vm_client.py. They need to be on seperate computers or on different hosts for this script to run. Both the server and the client script takes in command line arguments which are the user and password.
 
